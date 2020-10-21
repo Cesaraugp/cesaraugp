@@ -14,9 +14,12 @@
 #### * Entrenar y desarrollar destreza en la resolución de problemas en [Hackerrank.com](https://www.hackerrank.com/cesaraugp).
 
 
-##Me puedes encontrar además en:
-###[Twitter](https://twitter.com/cesaraugp)
-###[Codepen](https://codepen.io/cesaraugp "codepen.io/cesaraugp")
+## Me puedes encontrar además en:
+
+
+### [Twitter](https://twitter.com/cesaraugp "twitter.com/cesaraugp").
+
+### [Codepen](https://codepen.io/cesaraugp "codepen.io/cesaraugp").
 
 <!--
 **Cesaraugp/cesaraugp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
