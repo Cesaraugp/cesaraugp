@@ -7,10 +7,16 @@
 
 ### :hourglass: Actualmente, estoy enfocando mi tiempo en:
  
-#### * Reforzar las bases del desarrollo web en HTML5 y CSS3, a través del currículo de *Diseño Web Responsivo* en [freecodecamp.org](http://freecodecamp.org).
-#### * Preparando la defensa académica para optar por el diploma de *Experto en Administración Web* en [fatla.org](http://fatla.org).
+#### * ~~Reforzar las bases del desarrollo web en HTML5 y CSS3, a través del currículo de *Diseño Web Responsivo* en [freecodecamp.org](http://freecodecamp.org)~~
+#### * ~~Preparando la defensa académica para optar por el diploma de *Experto en Administración Web* en [fatla.org](http://fatla.org)~~
 #### * Aprender Javascript desde 0 con el curso de [@jonmircha](https://github.com/jonmircha), disponible en [aprendejavascript.org](https://aprendejavascript.org/).
+#### * Complementar aprendizaje de Javascript con el currículo de *Javascript Algorithms and Data Structures* en [freecodecamp.org](http://freecodecamp.org)
 #### * Entrenar y desarrollar destreza en la resolución de problemas en [Hackerrank.com](https://www.hackerrank.com/cesaraugp).
+
+
+##Me puedes encontrar además en:
+###[Twitter](https://twitter.com/cesaraugp)
+###[Codepen](https://codepen.io/cesaraugp "codepen.io/cesaraugp")
 
 <!--
 **Cesaraugp/cesaraugp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
