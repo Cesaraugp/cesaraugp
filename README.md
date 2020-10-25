@@ -10,7 +10,7 @@ Soy un entusiasta de la programación, y la robótica. Me alegra mucho verte por
 * :artist: Aprender [*SASS*](https://sass-lang.com/ "Página oficial de Sass")
 
 
-### Tecnologías y Herramientas
+### :hammer_and_wrench: Tecnologías y Herramientas
 
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -20,12 +20,12 @@ Soy un entusiasta de la programación, y la robótica. Me alegra mucho verte por
 <br>
 
 ---
-###  :pencil2: Déjame contarte un poco sobre mí:
+### :pencil2: Déjame contarte un poco sobre mí:
 
 #### Desde que tengo memoria he tenido una curiosidad intrínseca por el mundo de la computación y cuando tuve 16 años decidí lanzar mi primer *"Hola Mundo"*  al compilador, a partir de entonces he dedicado mi tiempo libre a desenvolverme y leer en internet sobre temas que me apasionan, especialmente en lo que respecta a desarrollo web. Ahora, me he aventurado a dar un paso más y convertir mi sueño de trabajar en aquello que me apasiona en una realidad, programar.
 
 
-### Me puedes encontrar además en las redes:
+### :v: Me puedes encontrar además en las redes:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" />][twitter]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" />][linkedin]
