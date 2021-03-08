@@ -30,9 +30,10 @@ Soy un entusiasta de la programación, y la robótica. Me alegra mucho verte por
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" />][twitter]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" />][linkedin]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" align="left" />][codepen]
-
+<a href="https://dev.to/cesaraugp">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Cesar Pérez's DEV Community Profile" height="32" width="32"/>
+</a>
 <br>
-
 ---
 
 
