@@ -1,3 +1,5 @@
+<img align="right" width="5%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
+
 ### Hey! Mi nombre es *Cesar Pérez* 👋 <a href="https://www.linkedin.com/in/cesaraugp/"><img src="https://img.shields.io/badge/Cesar Pérez-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 ---
 
