@@ -1,21 +1,13 @@
-### Hey! Mi nombre es *Cesar Pérez* 👋 [![Sígueme en Twitter](https://img.shields.io/twitter/follow/cesaraugp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcesaraugp&screen_name=cesaraugp)
-Soy un entusiasta de la programación, y la robótica. Me alegra mucho verte por aquí!
-
+### Hey! Mi nombre es *Cesar Pérez* 👋 <a href="https://www.linkedin.com/in/cesaraugp/"><img src="https://img.shields.io/badge/Cesar Pérez-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 ---
 
-### :hourglass: Actualmente, estoy enfocando mi tiempo en:
- 
-* :seedling: Reforzar JS con [*Javascript Algorithms and Data Structures*](http://freecodecamp.org "Freecodecamp")
-* :book: Estudiar las mejores prácticas de Javascript leyendo [*Eloquent Javascript*](https://eloquentjavascript.net/ "Eloquent Javascript") 
-* :artist: Aprender [*SASS*](https://sass-lang.com/ "Página oficial de Sass")
-
+<!-- ### :hourglass: Actualmente, estoy enfocando mi tiempo en: -->
 
 ### :hammer_and_wrench: Tecnologías y Herramientas
-
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img height="32" width="32" src="https://avatars2.githubusercontent.com/u/317889?s=200&v=4.png" align="left" />
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">  
+<img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white">  
 
 <br>
 
@@ -28,12 +20,11 @@ Soy un entusiasta de la programación, y la robótica. Me alegra mucho verte por
 ### :v: Me puedes encontrar además en las redes:
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" />][twitter]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" align="left" />][linkedin]
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" align="left" />][codepen]
 <a href="https://dev.to/cesaraugp">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Cesar Pérez's DEV Community Profile" height="32" width="32"/>
 </a>
-<br>
+
 ---
 
 
