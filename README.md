@@ -13,6 +13,7 @@
   
 #### Experimentos
 <img src="https://img.shields.io/badge/Python%20-%23306998.svg?&style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/PHP%20-%23001B87.svg?&style=for-the-badge&logo=PHP&logoColor=white">
+ <img src="https://img.shields.io/badge/C++%20-%23001B87.svg?&style=for-the-badge&logo=c++&logoColor=white">
 
 ---
 ### :pencil2: Déjame contarte un poco sobre mí:
@@ -45,5 +46,5 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1OTU1NTY4MV19
+eyJoaXN0b3J5IjpbNDg5MTkwODIyXX0=
 -->
