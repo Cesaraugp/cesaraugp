@@ -6,8 +6,9 @@
 <!-- ### :hourglass: Actualmente, estoy enfocando mi tiempo en: -->
 
 ### :hammer_and_wrench: Tecnologías y Herramientas
-#### Desarrollo Web
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <!-- <img src="https://img.shields.io/badge/Typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white">  
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"> 
+<!-- <img src="https://img.shields.io/badge/Typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white">  
 #### CMS
 <img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white">
   
@@ -21,7 +22,10 @@
 
 ### :v: Me puedes encontrar además en las redes:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" />][twitter] [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" align="left" />][codepen] <a href="https://dev.to/cesaraugp">   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Cesar Pérez's DEV Community Profile" height="32" width="32"/>
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" align="left" />][twitter]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" align="left" />][codepen]
+<a href="https://dev.to/cesaraugp">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Cesar Pérez's DEV Community Profile" height="32" width="32"/>
 </a>
 
 ---
@@ -43,6 +47,3 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTI5NjUzMl19
--->
