@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Tecnologías y Herramientas
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/tailwindcss%20-%2314B1BB.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"> 
+<img src="https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"> 
 
  <!-- <img src="https://img.shields.io/badge/Typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white">  
 #### CMS
