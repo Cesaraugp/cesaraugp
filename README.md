@@ -6,18 +6,22 @@
 <!-- ### :hourglass: Actualmente, estoy enfocando mi tiempo en: -->
 
 ### :hammer_and_wrench: Tecnologías y Herramientas
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img src="https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"> 
-<img src="https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=for-the-badge&logo=jquery&logoColor=7BCFF4">  
+#### FrontEnd
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+#### CMS
 <img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"> 
 
  <!-- <img src="https://img.shields.io/badge/Typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white">  
 #### CMS
-<img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white">
-  
+
 #### Experimentos
 <img src="https://img.shields.io/badge/Python%20-%23306998.svg?&style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/PHP%20-%23001B87.svg?&style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/C++%20-%234A154B.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white"> -->---
+
+### Frameworks y Librerías
+<img src="https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=for-the-badge&logo=jquery&logoColor=7BCFF4">
+
+
+
 ### :pencil2: Déjame contarte un poco sobre mí:
 
 #### Desde que tengo memoria he tenido una curiosidad intrínseca por el mundo de la computación y cuando tuve 16 años decidí lanzar mi primer *"Hola Mundo"*  al compilador, a partir de entonces he dedicado mi tiempo libre a desenvolverme y leer en internet sobre temas que me apasionan, especialmente en lo que respecta a desarrollo web. Ahora, me he aventurado a dar un paso más y convertir mi sueño de trabajar en aquello que me apasiona en una realidad, programar.
