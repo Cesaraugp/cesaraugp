@@ -17,7 +17,7 @@
 #### Experimentos
 <img src="https://img.shields.io/badge/Python%20-%23306998.svg?&style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/PHP%20-%23001B87.svg?&style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/C++%20-%234A154B.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white"> -->---
 
-### Frameworks y Librerías
+#### Frameworks y Librerías
 <img src="https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=for-the-badge&logo=jquery&logoColor=7BCFF4">
 
 
