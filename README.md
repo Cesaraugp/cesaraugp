@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Tecnologías y Herramientas
 #### FrontEnd
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <!-- <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white">-->
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 #### CMS
 <img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"> 
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Python%20-%23306998.svg?&style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/PHP%20-%23001B87.svg?&style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/C++%20-%234A154B.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white"> -->
 
 #### Frameworks y Librerías
-<img src="https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=for-the-badge&logo=jquery&logoColor=7BCFF4">
+<img src="https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=for-the-badge&logo=jquery&logoColor=7BCFF4"><img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
 
 ---
 
