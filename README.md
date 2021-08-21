@@ -1,4 +1,5 @@
-<img align="right" width="5%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>
+<!--<img align="right" width="5%" src="https://i.ibb.co/h1qqJMg/logo-png.png"/>-->
+
 
 ### Hey! Mi nombre es *Cesar Pérez* 👋 <a href="https://www.linkedin.com/in/cesaraugp/"><img src="https://img.shields.io/badge/Cesar Pérez-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 ---
@@ -7,9 +8,19 @@
 
 ### :hammer_and_wrench: Tecnologías y Herramientas
 #### FrontEnd
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img src="https://img.shields.io/badge/react%20-%23007acc.svg?&style=for-the-badge&logo=react&logoColor=white"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+
+
+#### BackEnd y BD
+<img src="https://img.shields.io/badge/Nodejs%20-%23323330?&style=for-the-badge&logo=Node.js&logoColor=green"><img src="https://img.shields.io/badge/Express%20-%23323000?&style=for-the-badge&logo=express&logoColor=green"><img src="https://img.shields.io/badge/JWT%20-%23000000?&style=for-the-badge&logo=Json-Web-Tokens&logoColor=purple"><img src="https://img.shields.io/badge/mysql-%2300f3.svg?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+
+#### Testing
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
+
+
+
 #### CMS
-<img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"> 
+<img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"> 
 
  <!-- <img src="https://img.shields.io/badge/Typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white">  
 #### CMS
