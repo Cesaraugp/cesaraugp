@@ -12,7 +12,11 @@
 
 
 #### BackEnd y BD
-<img src="https://img.shields.io/badge/Nodejs%20-%23323330?&style=for-the-badge&logo=Node.js&logoColor=green"><img src="https://img.shields.io/badge/Express%20-%23323000?&style=for-the-badge&logo=express&logoColor=green"><img src="https://img.shields.io/badge/JWT%20-%23000000?&style=for-the-badge&logo=Json-Web-Tokens&logoColor=purple"><img src="https://img.shields.io/badge/mysql-%2300f3.svg?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+<img src="https://img.shields.io/badge/Nodejs%20-%23323330?&style=for-the-badge&logo=Node.js&logoColor=green"><img src="https://img.shields.io/badge/Express%20-%23323000?&style=for-the-badge&logo=express&logoColor=green"><img src="https://img.shields.io/badge/nestjs-%23141c1c.svg?style=for-the-badge&logo=nestjs&logoColor=%23e1254c"><img src="https://img.shields.io/badge/JWT%20-%23000000?&style=for-the-badge&logo=Json-Web-Tokens&logoColor=purple"><img src="https://img.shields.io/badge/mysql-%2300f3.svg?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"><img src="https://img.shields.io/badge/DynamoDB-%234053D6.svg?style=for-the-badge&logo=amazondynamodb&logoColor=white"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+
+
+#### Cloud Platforms
+<img src="https://img.shields.io/badge/-AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=%23e47911">
 
 #### Testing
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
@@ -22,14 +26,22 @@
 #### CMS
 <img src="https://img.shields.io/badge/Wordpress%20-%2321759b.svg?&style=for-the-badge&logo=wordpress&logoColor=white"><img src="https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white"> 
 
- <!-- <img src="https://img.shields.io/badge/Typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white">  
-#### CMS
 
 #### Experimentos
-<img src="https://img.shields.io/badge/Python%20-%23306998.svg?&style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/PHP%20-%23001B87.svg?&style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/C++%20-%234A154B.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Go%20-%23ffffff.svg?&style=for-the-badge&logo=go&logoColor=00ADD8">
+
+ <!--
+<img src="https://img.shields.io/badge/PHP%20-%23001B87.svg?&style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/C++%20-%234A154B.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white">
+ <img src="https://img.shields.io/badge/Typescript%20-%23007acc.svg?&style=for-the-badge&logo=typescript&logoColor=white">  
+#### CMS
+
+ -->
 
 #### Frameworks y Librerías
 <img src="https://img.shields.io/badge/tailwind_css%20-%2314B1BB.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"><img src="https://img.shields.io/badge/jQuery%20-%230C4D9B.svg?&style=for-the-badge&logo=jquery&logoColor=7BCFF4"><img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white">
+
+#### Testing
+<img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
 
 ---
 
